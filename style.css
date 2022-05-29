@@ -1,0 +1,73 @@
+h1{
+    background-color:rgb(119, 164, 230);
+    color:white;
+    text-align:center;
+    font-size:large;
+}
+
+.header_logo{
+    font-size: 25px;
+    color:green; 
+    margin-right:600px;
+    
+}
+
+.hlinks{
+    color:rgb(214, 25, 25);
+    display:flex;
+    padding: 50px;
+    margin-left:50px;
+}
+
+.header_link_one .header_link_two .header_link_three{
+    padding:20px;
+}
+
+.first_main{
+    width: 400px;
+    margin-left:100px;
+}
+
+span{
+    font-size:33px;
+}
+
+button{
+    background-color:blue;
+    padding:10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+img{
+    width:450px;
+    height:auto;
+    margin-left:550px;
+    margin-top:-225px;
+    margin-right:-100px;
+    border:30px;
+    border-color:lightgreen;
+}
+
+/* section 2 of website below*/
+
+h2{
+    background-color:rgb(255, 255, 255);
+    color:rgb(86, 83, 83);
+    text-align:center;
+    font-size:large;
+}
+
+.header_h2{
+    font-size:xx-large;
+}
+
+h2 img{
+    flex-direction: row;
+    height: 50px;
+    width: auto ; 
+    margin: 50px;
+}
+
+.mic_d .flute_d .music_theory_d .piano-notes_d{
+    width:100px;
+}
